@@ -1,0 +1,16 @@
+# Inflorescence branching direction
+1 rachillae arranged all around the rachis
+2 rachillae partially absent from adaxial part of rachis
+3 rachillae completely absent from adaxial part of rachis
+4 no branching
+
+
+# Inflorescence branching order
+1 several order branching
+2 one order branching
+3 no branching
+
+#Inflorescence consistency
+1 woody
+2 herbaceous
+
