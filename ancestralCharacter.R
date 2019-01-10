@@ -23,4 +23,4 @@ nodelabels(pie=ER$lik.anc, piecol=c("#66CC00","#3399FF","#FF3333","orange"),cex=
 1-pchisq(2*abs(ER$loglik - ARD$loglik), 1)
 
 , adj=0.52
-add.scale.bar()
+#add.scale.bar()
